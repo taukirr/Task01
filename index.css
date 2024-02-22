@@ -1,0 +1,33 @@
+.box{
+    /* width: 368px;
+    height: 105px; */
+    border-block-start-style: solid;
+    border-block-start-width: 10px;
+    border-block-start-color: #ffcb05;
+    box-shadow: 3px 3px 3px 3px gray;
+    border-radius: 5px;
+}
+
+.tagImg{
+    margin-top: -23px;
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:30px ;
+    height:30px;
+    font-size:21px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(16, 104, 178);
+}
+
+.blue
+{
+    color: #1068b2;
+}
+
+.navbar{
+    .sticky-top {
+        position: sticky;
+    }
+}
